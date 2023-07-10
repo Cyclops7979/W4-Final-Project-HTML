@@ -11,4 +11,4 @@ The aside section displays a list of the latest news or updates, such as new fea
 
 At the bottom of the webpage, the footer displays the copyright notice, indicating that all rights are reserved for the website.
 
-GitHub Repo: [Insert your GitHub repository link here]
+GitHub Repo: [https://github.com/Cyclops7979/W4-Final-Project-HTML.git]
